@@ -4,6 +4,6 @@ CJK는 Chinese, Japanese, Korean의 첫 이니셜로서 프로그램에서 한�
 
 ![Alt 漢字 比較 辭典(한자 비교 사전)](screenshot/search.png?raw=true "漢字 比較 辭典(한자 비교 사전)")
 
-![Alt 文字 變換 辭典(문자 변환 사전)](screenshot/convert.png?raw=true)
+![Alt 文字 變換 辭典(문자 변환 사전)](screenshot/convert.png?raw=true "文字 變換 辭典(문자 변환 사전)")
 
 [http://jeasu.kr/#section:/hanzi/chardic](http://jeasu.kr/#section:/hanzi/chardic)
